@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Welcome to Peterjc.dk
+email: mail@peterjc.dk
+description: > # this means to ignore newlines until "baseurl:"
+  I’m Peter JC born 1971 in Aarhus, Denmark, where I also grew up. I currently live in Copenhagen. This page is about my work and passion for computer science and software development.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://peterjc.dk" # the base hostname & protocol for your site
+twitter_username: peterjuhlchr
+github_username: peterjc-dk
+
+# Build settings
+markdown: kramdown
