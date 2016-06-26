@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I’m Peter JC born 1971 in Aarhus, Denmark, where I also grew up. I started at Aarhus University studying Physics and Mathematics, and later I switched to Computer Science in which I took a M.A. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Computer Science is also a hobby, hence I read books about computer languages and technologies like [Clojure](http://clojure.org/).  and reasondly [Elixir](http://elixir-lang.org/) , and create web-sites and other similar activities. I also have a great interest in photography, music and am active in the scout movement. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+Besides this blog I also blog about software development issues in danish at [QED.dk/peter-juhl-christiansen/](http://qed.dk/peter-juhl-christiansen/). 
+
+[QED.dk](http://qed.dk). is a blogging communety, with software as ovall theme.    
+
